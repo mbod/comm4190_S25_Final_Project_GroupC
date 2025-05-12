@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+*.swp
+*.pem
+.gradio/
+
 # Distribution / packaging
 .Python
 build/
